@@ -1,6 +1,7 @@
 # STEP-week4
 
-wikipedia_sample.py(dfsやbfsを用いたグラフアルゴリズムの実装)
+* wikipedia_sample.py(dfsやbfsを用いたグラフアルゴリズムの実装)
+* new_wikipedia_sample.py (bfsのモジュールを修正)
 
 実行方法："Start:"と表示されたら出発するリンクを入力し、"Target:"と表示されたらゴールのリンクを入力してください。
 終了したい場合は、何も入力せずにenterを押してください。
@@ -12,7 +13,7 @@ dfsは深さ優先探索、bfsは幅優先探索です。
 
 実行時間が一時間以上になることもあります
 
-wikipedia_something.py
+* wikipedia_something.py
 
 実行方法："Output file for popular link:"と表示されたら、書き込み用のファイル名を".txt"という形で入力してください。
 10000個以上のリンクから直接たどれて、かつ、10000個以上のリンクに直接たどれるリンクが出力されます。
